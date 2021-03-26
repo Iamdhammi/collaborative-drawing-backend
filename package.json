@@ -1,0 +1,24 @@
+{
+  "name": "collaborative-drawing-backend",
+  "version": "1.0.0",
+  "description": "Collaborative Drawing App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Drawing",
+    "Real-time",
+    "Chat"
+  ],
+  "author": "Damilola Bello",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.13.10",
+    "@babel/preset-env": "^7.13.12",
+    "@babel/register": "^7.13.8"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
